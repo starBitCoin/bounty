@@ -1,0 +1,9 @@
+Building Bountycoin
+
+See doc/readme-qt.rst for instructions on building Bountycoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Bountycoin.
+
+See doc/build-*.txt for instructions on building Bountycoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Bountycoin.
